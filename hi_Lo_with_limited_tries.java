@@ -22,8 +22,6 @@ public class hi_Lo_with_limited_tries {
                 System.out.println("You guessed it! What are the odds?!?!");
             }
             tries++;
-            System.out.println("Guess #"+tries+": ");
-            guess=scanner.nextInt();
         }
     if(tries>7&&guess!=pick){
         System.out.println("Sorry, you didn't guess it in 7 tries. You lose.");
