@@ -7,7 +7,7 @@ public class Choose_your_adventure {
         String first="";
         String second="";
         String third="";
-        System.out.println("Welcome to Doğa's tiny adventure!");
+        System.out.println("Welcome to MITCHELL's tiny adventure!");
         System.out.println();
         System.out.println("You're in a creepy house! Would u like to got \"upstairs\" or into the \"kitchen\"?");
         first=scanner.nextLine();
